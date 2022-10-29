@@ -1,0 +1,17 @@
+- name: Jira Login
+  uses: atlassian/gajira-login@v2.0.0
+
+- name: Setup Jira
+  uses: atlassian/gajira-cli@v2.0.2
+
+- name: Jira Add Comment
+  uses: atlassian/gajira-comment@v2.0.2
+  
+ - name: Jira Create issue
+  uses: atlassian/gajira-create@v2.0.1
+
+- name: Jira Issue Transition
+  uses: atlassian/gajira-transition@v2.0.2
+
+- name: Jira issue from TODO
+  uses: atlassian/gajira-todo@v2.0.1
