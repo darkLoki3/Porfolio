@@ -1,13 +1,13 @@
 # Freecodecamp
 ########
-* Cat photo app
+## Cat photo app
 First project using responsive web design
 
-* Learn Basic Css
+## Learn Basic Css
 Introduction on using CSS to make a cafe menu
 
-* Learn Css color
+## Learn Css color
 How to make a color bar using css elements
 
-* Learn html form
+## Learn html form
 Learning how to use html form element
