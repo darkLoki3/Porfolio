@@ -15,7 +15,7 @@ const MyComponentCorrect = () => {
 ```
 
 ## [modelo](/modelo1.ts)
-> whatever...
+> Same the Typescript. Show status bar
 ```typescript
 const Project_Status = ["aprovado", "reprovado", "pendente"] as const
 type ProjectStatus = (typeof Project_Status)[number]
@@ -28,7 +28,19 @@ console.log("contém status")
 ```
 
 ## [modelo_layout](/modelo_layout.ts)
-> layout model
+> layout effect to operations who need DOM
 ```typescript
+// Correct manner
+// useLayoutEffect to operations what need disposition DOM
+const CorrectComponent = () => {
+ const ref = useRef();
 
+
+  useLayoutEffect(() => {
+   if(ref.current) {
+      ref.current.style.backgroundColor = "blue";
+}
+}, []);
+  return <div ref={ref}>example test</div>;
+};
 ```
