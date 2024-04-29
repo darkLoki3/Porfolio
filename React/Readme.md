@@ -1,7 +1,7 @@
 # React
 > Here will be uploaded some example of codes
 
-## Typescript
+## [Typescript](/Typescript.ts)
 > This show a status bar the project have
 ```typescript
   const Project_Status = ["aprovado", "reprovado", "pendente"] as const
@@ -14,7 +14,7 @@
   }
 ```
 
-## map typescript
+## [map typescript](/map_typescript.ts)
 > This code map the correct component
 ```typescript
 const MyComponentCorrect = () => {
