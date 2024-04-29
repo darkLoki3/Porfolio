@@ -2,8 +2,10 @@
 > Here will be uploaded some example of codes
 
 ## Typescript
-> This code checks if your code follow the best pratice...
+> This show a status bar the project have
+<code></code>
 
 
 ## map typescript
 > This code map the project...
+<code></code>
