@@ -2,7 +2,7 @@
 > Here will be upload some typescripts codes
 
 ## [map_typescript](/map_typescript.ts)
-> Same code appear on react folder. Map the correct component
+> Map the correct component
 ```typescript
 const MyComponentCorrect = () => {
   const itens = ["Item 1", "Item 2", "Item 3"];
@@ -15,7 +15,7 @@ const MyComponentCorrect = () => {
 ```
 
 ## [modelo](/modelo1.ts)
-> Same the Typescript. Show status bar
+> Show status bar
 ```typescript
 const Project_Status = ["aprovado", "reprovado", "pendente"] as const
 type ProjectStatus = (typeof Project_Status)[number]
