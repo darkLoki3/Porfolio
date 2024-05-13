@@ -44,3 +44,8 @@ const CorrectComponent = () => {
   return <div ref={ref}>example test</div>;
 };
 ```
+
+## [Status per order](/statusperorder.ts)
+> How to minimize if use
+```typescript
+```
