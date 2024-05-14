@@ -48,4 +48,17 @@ const CorrectComponent = () => {
 ## [Status per order](/statusperorder.ts)
 > How to minimize if use example was picked from the user Matheus Augusto in Linkedin
 ```typescript
+setStatusPerOrder(status: number): string {
+    if (status == 0) {
+        return "Erro";
+    } else if (status == 1) {
+        return "Pendente";
+    } else if (status == 2) {
+        return "Em andamento";
+    } else if (status == 3) {
+        return "Sucesso";
+    } else {
+        return "-";
+    }
+}
 ```
