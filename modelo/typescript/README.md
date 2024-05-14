@@ -45,7 +45,7 @@ const CorrectComponent = () => {
 };
 ```
 
-## [Status per order](/statusperorder.ts)
+## [Status per order](/setStatusPerOrder.ts)
 > How to minimize if use example was picked from the user Matheus Augusto in Linkedin
 ```typescript
 setStatusPerOrder(status: number): string {
