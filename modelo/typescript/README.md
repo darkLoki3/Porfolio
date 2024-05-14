@@ -46,6 +46,6 @@ const CorrectComponent = () => {
 ```
 
 ## [Status per order](/statusperorder.ts)
-> How to minimize if use
+> How to minimize if use example was picked from the user Matheus Augusto in Linkedin
 ```typescript
 ```
