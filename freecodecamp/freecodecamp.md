@@ -103,7 +103,7 @@
     This course (and the code you write here) will give you the foundation for a deeper math and data science understanding.
 </details>
 
-## Learn English for Developers
+### Learn English for Developers
 <details>
   <summary>
     [A2 English for Developers (Beta)]
@@ -114,7 +114,7 @@
     This entire A2-level curriculum includes 105 different dialogues. Each is designed to build your vocabulary and boost your confidence when speaking in a professional tech setting.
 </details>
 
-## Earn free professional certifications
+### Earn free professional certifications
 <details>
   <summary>
     [(New) Foundational C# with Microsoft]
