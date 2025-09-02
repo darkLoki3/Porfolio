@@ -2,7 +2,7 @@
 > Here I will leave all my projects for study
 ********
 
-## [Shell] (/Shell/Readme.md)
+## [Shell](/Shell/Readme.md)
 > Here I will upload some commands for people who want start to learn programming.
 
 ## [Freecodecamp](https://www.freecodecamp.org/)
