@@ -9,5 +9,5 @@
 
 <code>
     $pwd
-    print /root/home/usr
+    \n /root/home/usr
 </code>
